@@ -12,3 +12,6 @@ vagrant up
 
 5. To check status of all VM's
 vagrant status
+
+6. To login to any vm
+vagrant ssh hostname
