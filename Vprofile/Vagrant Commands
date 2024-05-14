@@ -2,7 +2,7 @@
 vagrant global-status
 
 2.To delete all the previous VM's
-vagrant global-status --prune
+vagrant destroy --force
 
 3.To install host-manager plugin
 vagrant plugin install vagrant-hostmanager
